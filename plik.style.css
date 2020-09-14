@@ -3,12 +3,12 @@ h1{
 }
 
 
-span.specific {
+.first-one{
     color: #ff0000;
 
 }
 
-.First-one {
+.first-one {
     background-color: rgb(212, 212, 161)
    
 }
@@ -19,7 +19,7 @@ h3 {
 }
 
 /* Selektor klassy */
-.First-paragraf {
+.first-paragraf {
 color: blue;
 
 }
