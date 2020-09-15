@@ -3,30 +3,20 @@ h1{
 }
 
 
-.first-one{
-    color: #ff0000;
-
-}
-
-.first-one {
-    background-color: rgb(212, 212, 161)
-   
-}
 
 h3 {
-    background-color: #500
-
-}
-
-/* Selektor klassy */
-.first-paragraf {
-color: blue;
-
+    color: #ff0000;
+background-color: rgb(163, 108, 108);
 }
 
 p {
+    background-color: rgb(212, 212, 161);
     color: yellow;
-
 }
+
+
+
+
+
 
 
